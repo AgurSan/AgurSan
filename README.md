@@ -1,6 +1,6 @@
 ### Hi, I'm @AgurSan 👋
 
-💼 I'm looking for an internship as soon as possible, as part of the Wild Code School JavaScript React Application Development program.
+💼 I'm looking for an opportunity of work.
 
 🌱 I am currently working on a versatile and attractive portfolio to showcase my hardskills. 
 
