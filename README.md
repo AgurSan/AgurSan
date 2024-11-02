@@ -2,10 +2,10 @@
 
 💼 I'm looking for an opportunity of work.
 
-🌱 I am currently working on a versatile and attractive portfolio to showcase my hardskills. 
+🌱 I am currently working on a bunch of personal projects. 
 
-🦍 I also practice Typescript on coding games : [Codewars](https://www.codewars.com/users/AgurSan)
+💻​ I am using React, Next, Typescript and Tailwindcss.
 
-💻​ I am practicing on React, Typescript and Tailwindcss.
+🚀 Take a look at my [Portfolio](https://www.clementsananikone.com)
 
 📫 You can reach me on [LinkedIn](https://www.linkedin.com/in/cl%C3%A9ment-sananikone/).
