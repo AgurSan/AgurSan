@@ -1,10 +1,6 @@
 ### Hi, I'm @AgurSan 👋
 
-💼 I'm looking for an opportunity of work.
-
-🌱 I am currently working on a bunch of personal projects. 
-
-💻​ I am using React, Next, Typescript and Tailwindcss.
+💻​ I am using Next, Typescript and Tailwindcss.
 
 🚀 Take a look at my [Portfolio](https://www.clementsananikone.com)
 
